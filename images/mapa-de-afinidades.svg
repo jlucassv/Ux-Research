@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#f6f7fb"/><text x="60" y="65" font-family="Arial" font-size="32" font-weight="700" fill="#172033">Mapa de afinidades — Delivery</text>
+<text x="60" y="100" font-family="Arial" font-size="17" fill="#596579">Agrupamento de observações em quatro temas principais</text>
+<g font-family="Arial">
+<rect x="55" y="145" width="520" height="245" rx="18" fill="#e4efff" stroke="#8eb5ef" stroke-width="2"/><text x="80" y="185" font-size="23" font-weight="700" fill="#214c86">Preço e transparência</text>
+<rect x="80" y="210" width="220" height="60" rx="10" fill="#fff"/><text x="95" y="235" font-size="16" fill="#26364d">Taxas percebidas</text><text x="95" y="255" font-size="16" fill="#26364d">no fim</text>
+<rect x="315" y="210" width="230" height="60" rx="10" fill="#fff"/><text x="330" y="235" font-size="16" fill="#26364d">Comparar custo-</text><text x="330" y="255" font-size="16" fill="#26364d">benefício</text>
+<rect x="80" y="290" width="465" height="65" rx="10" fill="#fff"/><text x="100" y="318" font-size="16" fill="#26364d">Necessidade: saber o valor total antes de confirmar</text>
+<rect x="625" y="145" width="520" height="245" rx="18" fill="#e2f5eb" stroke="#8bc9a8" stroke-width="2"/><text x="650" y="185" font-size="23" font-weight="700" fill="#216746">Escolha do restaurante</text>
+<rect x="650" y="210" width="220" height="60" rx="10" fill="#fff"/><text x="665" y="235" font-size="16" fill="#26364d">Fotos e avaliações</text><text x="665" y="255" font-size="16" fill="#26364d">recentes</text>
+<rect x="885" y="210" width="230" height="60" rx="10" fill="#fff"/><text x="900" y="235" font-size="16" fill="#26364d">Prazo e filtros</text><text x="900" y="255" font-size="16" fill="#26364d">de busca</text>
+<rect x="650" y="290" width="465" height="65" rx="10" fill="#fff"/><text x="670" y="318" font-size="16" fill="#26364d">Necessidade: comparar opções com menos esforço</text>
+<rect x="55" y="425" width="520" height="245" rx="18" fill="#fff0dc" stroke="#e9bb75" stroke-width="2"/><text x="80" y="465" font-size="23" font-weight="700" fill="#8b5716">Acompanhamento</text>
+<rect x="80" y="490" width="220" height="60" rx="10" fill="#fff"/><text x="95" y="515" font-size="16" fill="#26364d">Status sem</text><text x="95" y="535" font-size="16" fill="#26364d">atualização</text>
+<rect x="315" y="490" width="230" height="60" rx="10" fill="#fff"/><text x="330" y="515" font-size="16" fill="#26364d">Atraso sem</text><text x="330" y="535" font-size="16" fill="#26364d">explicação</text>
+<rect x="80" y="570" width="465" height="65" rx="10" fill="#fff"/><text x="100" y="598" font-size="16" fill="#26364d">Necessidade: entender o que está acontecendo</text>
+<rect x="625" y="425" width="520" height="245" rx="18" fill="#f1e8ff" stroke="#bea1ed" stroke-width="2"/><text x="650" y="465" font-size="23" font-weight="700" fill="#68449a">Praticidade</text>
+<rect x="650" y="490" width="220" height="60" rx="10" fill="#fff"/><text x="665" y="515" font-size="16" fill="#26364d">Repetir pedidos</text><text x="665" y="535" font-size="16" fill="#26364d">anteriores</text>
+<rect x="885" y="490" width="230" height="60" rx="10" fill="#fff"/><text x="900" y="515" font-size="16" fill="#26364d">Menos etapas</text><text x="900" y="535" font-size="16" fill="#26364d">e telas</text>
+<rect x="650" y="570" width="465" height="65" rx="10" fill="#fff"/><text x="670" y="598" font-size="16" fill="#26364d">Necessidade: concluir tarefas de forma rápida</text>
+</g></svg>
