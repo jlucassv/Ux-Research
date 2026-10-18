@@ -1,4 +1,4 @@
-# Pesquisa de UX — Experiência em aplicativo de delivery
+# UX Research — Experiência em aplicativo de delivery
 
 ## 1. Apresentação do projeto
 
@@ -35,9 +35,6 @@ Entender como usuários escolhem restaurantes, avaliam preços e prazos, conclue
 - **H3:** atualizações genéricas sobre o pedido aumentam a incerteza durante a espera.
 - **H4:** um atalho para repetir pedidos anteriores pode facilitar o uso recorrente.
 
-### Método escolhido
-Foi definido um método qualitativo exploratório com entrevistas semiestruturadas. Esse formato permite compreender comportamentos, motivações e experiências em maior profundidade, além de abrir espaço para perguntas complementares.
-
 ### Roteiro de entrevista
 1. Com que frequência você utiliza aplicativos de delivery?
 2. Conte como costuma escolher um restaurante.
@@ -48,56 +45,30 @@ Foi definido um método qualitativo exploratório com entrevistas semiestruturad
 7. Quais informações gostaria de ver durante a entrega?
 8. Se pudesse mudar algo no aplicativo, o que mudaria?
 
+### Usuário 1
+1. Com que frequência você utiliza aplicativos de delivery? Todo Final de Semana.
+2. Conte como costuma escolher um restaurante. Pelo gosto culinário.
+3. Quais informações você verifica antes de decidir? Avaliação de outros clientes.
+4. Como compara preço, avaliações e prazo de entrega? Avaliação.
+5. Você já teve alguma surpresa com o valor final? Como foi? Não.
+6. O que costuma fazer quando o pedido demora? Entro em contato com a loja.
+7. Quais informações gostaria de ver durante a entrega? Localização do entregador.
+8. Se pudesse mudar algo no aplicativo, o que mudaria? Facilidade para entrar em contato com a loja.
+
+### Usuário 2
+1. Com que frequência você utiliza aplicativos de delivery? Semanalmente.
+2. Conte como costuma escolher um restaurante. Pelo valor do prato.
+3. Quais informações você verifica antes de decidir? Prazo de entrega.
+4. Como compara preço, avaliações e prazo de entrega? Prazo.
+5. Você já teve alguma surpresa com o valor final? Como foi? Ainda não tive.
+6. O que costuma fazer quando o pedido demora? Tento entrar em contato com a loja.
+7. Quais informações gostaria de ver durante a entrega? O tempo de rota até a entrega.
+8. Se pudesse mudar algo no aplicativo, o que mudaria? Facilidade para ver a localização do entregador.
+
 ### Perfil de participantes recomendado
-Para executar a pesquisa em contexto real, recomenda-se entrevistar de cinco a oito pessoas que utilizem delivery mensalmente, buscando diversidade de hábitos e frequência de uso. A participação deve ser voluntária, com explicação dos objetivos e sem coleta desnecessária de informações pessoais.
+Usuários que utilizam aplicativos de delivery regularmente.
 
-### Cuidados e limitações
-A pesquisa qualitativa ajuda a identificar padrões e hipóteses, mas não representa necessariamente todos os usuários. As descobertas devem ser complementadas por testes de usabilidade e, quando possível, por dados quantitativos.
-
-## 4. Síntese das entrevistas
-
-Esta seção demonstra como as respostas podem ser registradas e organizadas. **Os relatos abaixo são exemplos ilustrativos para estruturar o exercício; não devem ser apresentados como entrevistas reais sem coleta e validação com participantes.**
-
-### Entrevista 1 — foco em comparação
-- A pessoa costuma consultar fotos, avaliações e prazo estimado antes de escolher.
-- Abre mais de um restaurante para comparar opções.
-- Considera frustrante descobrir taxas depois de selecionar os itens.
-- Gostaria de ver o custo estimado com mais antecedência.
-
-### Entrevista 2 — foco em pedidos recorrentes
-- A pessoa costuma pedir refeições semelhantes durante a semana.
-- Prefere usar restaurantes que já conhece.
-- Considera útil encontrar pedidos anteriores sem precisar refazer toda a busca.
-- Quer acompanhar com clareza quando o restaurante prepara o pedido e quando ele sai para entrega.
-
-### Entrevista 3 — foco em orçamento
-- O preço total é um dos fatores mais importantes.
-- A pessoa verifica o carrinho antes de confirmar.
-- Pode desistir quando as taxas aumentam muito o custo.
-- Prefere comparar o valor final, e não apenas o preço anunciado do prato.
-
-### Entrevista 4 — foco em praticidade
-- A pessoa utiliza o aplicativo quando tem pouco tempo.
-- Filtros por preço e prazo ajudam a reduzir as opções.
-- Sente dificuldade quando precisa entrar e sair de várias telas para comparar.
-- Gostaria de encontrar as principais informações em um único local.
-
-### Entrevista 5 — foco em acompanhamento
-- A pessoa consulta avaliações recentes para diminuir o risco de uma experiência ruim.
-- Fica insegura quando o status permanece sem atualização por muito tempo.
-- Gostaria de receber uma previsão atualizada e um aviso claro quando houver atraso.
-- Prefere notificações objetivas, sem mensagens excessivas.
-
-### Síntese dos aprendizados
-Os exemplos indicam quatro temas recorrentes para investigação:
-- Transparência do preço final;
-- Facilidade para comparar restaurantes;
-- Clareza sobre o andamento da entrega;
-- Rapidez para repetir tarefas frequentes.
-
-Em uma pesquisa real, esses temas devem ser confirmados, ajustados ou descartados com base nas respostas efetivamente coletadas.
-
-## 5. Mapeamento de afinidades
+## 4. Mapeamento de afinidades
 
 O mapeamento de afinidades agrupa observações semelhantes para revelar temas e necessidades comuns.
 
@@ -111,7 +82,7 @@ O mapeamento de afinidades agrupa observações semelhantes para revelar temas e
 ### Insight principal
 A experiência de delivery não depende apenas da quantidade de restaurantes disponíveis. Ela também depende de apresentar as informações decisivas no momento certo, permitindo que a pessoa escolha com confiança e saiba o que esperar após confirmar o pedido.
 
-## 6. Persona
+## 5. Persona
 
 # Marina Costa — a usuária que valoriza praticidade e previsibilidade
 
@@ -142,7 +113,7 @@ A experiência de delivery não depende apenas da quantidade de restaurantes dis
 
 A persona é uma representação sintetizada para orientar decisões de design. Em um projeto real, deve ser revisada a partir de dados coletados com participantes.
 
-## 7. Mapa da jornada do usuário
+## 6. Mapa da jornada do usuário
 
 | Etapa | Ação | Pensamento ou sentimento | Dificuldade | Oportunidade de melhoria |
 |---|---|---|---|---|
@@ -158,7 +129,7 @@ A persona é uma representação sintetizada para orientar decisões de design. 
 2. **Preço final:** surpresas com taxas podem comprometer a confiança.
 3. **Atraso:** falta de informação concreta aumenta a incerteza.
 
-## 8. Oportunidades de melhoria priorizadas
+## 7. Oportunidades de melhoria priorizadas
 
 | Prioridade | Proposta | Problema atendido | Métrica de avaliação |
 |---|---|---|---|
@@ -170,7 +141,7 @@ A persona é uma representação sintetizada para orientar decisões de design. 
 
 As prioridades são recomendações iniciais. Antes da implementação, é importante avaliar impacto, esforço técnico, viabilidade operacional e resultados dos testes.
 
-## 9. Plano de validação
+## 8. Plano de validação
 
 Após criar protótipos das melhorias, recomenda-se realizar testes de usabilidade com pessoas do público-alvo.
 
@@ -187,28 +158,4 @@ Após criar protótipos das melhorias, recomenda-se realizar testes de usabilida
 - Quantidade de erros e retornos de tela;
 - Dúvidas verbalizadas durante a navegação;
 - Percepção de facilidade após cada tarefa.
-
-### Critério inicial de sucesso
-A melhoria será considerada promissora se as pessoas concluírem as tarefas com menos dúvidas e etapas desnecessárias, sem aumento de erros ou perda de compreensão.
-
-## 10. Conclusão
-
-O processo de pesquisa de UX permite conectar perguntas, entrevistas, organização de afinidades, persona e jornada do usuário. Neste exercício, os temas analisados apontam para três frentes prioritárias: transparência de preço, comparação mais simples e acompanhamento confiável.
-
-O próximo passo é transformar essas oportunidades em protótipos, testar as soluções com usuários e ajustar as decisões a partir das evidências coletadas. Dessa forma, as melhorias deixam de se basear apenas em suposições e passam a considerar as necessidades das pessoas que utilizam o produto.
-
-## 11. Estrutura do repositório
-
-```text
-desafio-ux-delivery/
-├── README.md
-└── images/
-    ├── README.md
-    ├── mapa-de-afinidades.svg
-    ├── persona.svg
-    └── jornada-do-usuario.svg
-```
-
-## 12. Descrição para a entrega na DIO
-
 Projeto de UX Research sobre a experiência do usuário em aplicativos de delivery. Contém plano de pesquisa, roteiro e síntese de entrevistas, mapeamento de afinidades, persona, jornada do usuário e oportunidades de melhoria priorizadas, com foco em usabilidade, transparência e satisfação.
